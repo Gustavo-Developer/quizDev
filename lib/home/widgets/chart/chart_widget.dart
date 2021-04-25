@@ -10,15 +10,15 @@ class ChartWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 80,
-      width: 80,
+      width: 90,
       child: Stack(
         children: [
           Center(
             child: Container(
-              height: 80,
-              width: 80,
+              height: 90,
+              width: 90,
               child: CircularProgressIndicator(
-                strokeWidth: 10,
+                strokeWidth: 9,
                 value: .75,
                 backgroundColor: AppColors.chartSecondary,
                 valueColor:

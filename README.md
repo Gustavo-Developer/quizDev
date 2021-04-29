@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/logo.png" alt="Podcastr logo">
+  <img src="./github/logo.png" alt="Podcastr logo">
 </div>
 
 <br>
@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-<img src=".github/capa.png" alt="Capa">
+<img src="./github/capa.png" alt="Capa">
 
 ## Tecnologias usadas durante o desenvolvimento
 - Flutter

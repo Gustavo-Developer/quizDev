@@ -26,7 +26,7 @@ $ flutter pub get
 
 <p> Desenvolvido durante o NLW 5 </p>
 
-## Feito por
+## Desenvolvido por
 
 <table>
   <tr>
